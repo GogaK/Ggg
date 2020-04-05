@@ -1,0 +1,27 @@
+body{
+    
+    background-color: orange;
+}
+
+.wrapper {
+     margin: 30px auto auto 30px;*/
+}
+
+.red{ color: red}
+
+.image {
+    margin-top: 30px;
+    width: 500px;
+}
+
+
+.title {   
+    color: white;
+    font-size: 30px;
+}
+
+.par { 
+    margin-top: 30px;
+    
+}
+
