@@ -8,19 +8,46 @@ body.yellow{
     background-color: yellow;
 }
 
+
 .wrapper {
      margin: 30px auto auto 30px;*/
 }
 
 .red{ color: red}
 
+    
+.navigation{
+    margin-left: 30px
+}
+
+.navigation-a{
+   padding-top:  7.5px;
+    padding-bottom: 7.5px;
+    display:inline-block;
+    text-decoration: none;
+    font-family:  "ingiroArial";
+    font-family: "ninoBold";
+}
+
+.banner-section{
+    margin-top: 22.5px;
+    margin-left: 30px;
+}
+
 .banner-img {
 /*    margin-top: 30px;*/
-    margin-left: 30px;
+    width: 1170px;
+    
 /*    width: 500px;*/
 }
 
+.navigation-li .test{
+    font-family: "ingiroArial"
+/*        font-family: "BPG Ingiri Arial", sans-serif;*/
+/*  font-family: "Times New Roman", Times, serif;*/
+}
 
+}
 .title {   
     color: white;
     font-size: 30px;
@@ -38,18 +65,6 @@ body.yellow{
     margin-bottom: 22.5px;
     
 }
-.navigation{
-    margin-left: 30px
-}
-
-.navigation-a{
-   padding-top:  7.5px;
-    padding-bottom: 7.5px;
-
-display:inline-block;
-    text-decoration: none;
-    
-}
 
 .foto{ 
 padding-left: 30px;
@@ -61,8 +76,31 @@ padding-left: 30px;
 }
 
 .main{
-    margin-left:30px;
+    margin-left:30px;}
+.test{
+   font-family:  "ingiroArial"
+/*       font-family: "BPG Ingiri Arial", sans-serif;*/
+       
 }
+.test2 {
+    color:red;
+}
+
+.test .test1{
+    color: blue;
+    width: 500px;
+    
+    
+}
+
+.test .test2{
+    font-family: "ninoBold";
+    
+}
+
+
+}
+
 
 /*footer*/
 .divider{
@@ -76,13 +114,12 @@ padding-left: 30px;
    
     }
 
+
 .social-img  {
     height: 30px;
 }      
 
-.left{ 
-margin-left: 30px;
-}
+
 /*footer*/
 
         
